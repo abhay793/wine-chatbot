@@ -1,5 +1,4 @@
 # wine-chatbot
-# Wine Shop Chatbot
 
 This is a simple Wine Shop Chatbot built using Streamlit. The chatbot can respond to questions about different wines, provide general responses, and greet users based on the time of day.
 
